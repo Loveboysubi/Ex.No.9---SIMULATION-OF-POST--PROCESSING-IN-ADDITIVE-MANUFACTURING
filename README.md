@@ -32,23 +32,7 @@
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
-
-## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
-
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
-
-## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
-
-## Output:
-![Screenshot 2023-11-29 131422](https://github.com/23002248/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151701774/330f430b-04b1-4859-8804-d76371667a8e)
-![Screenshot 2023-11-29 131511](https://github.com/23002248/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151701774/6c1b1236-1593-4d5b-8f82-14cc86093d3e)
-![Screenshot 2023-11-29 131557](https://github.com/23002248/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151701774/0bd86f62-7465-49ba-8abf-73fdf771f03a)
+<img width="309" alt="Screenshot 2023-12-16 153734" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/2db0a00d-0d72-4330-b71c-a629f4c7cada">
 
 ### Name: Subishesh P
 ### Register Number: 23003621
