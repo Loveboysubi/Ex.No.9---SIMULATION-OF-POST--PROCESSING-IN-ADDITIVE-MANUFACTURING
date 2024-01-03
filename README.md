@@ -32,7 +32,22 @@
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
-<img width="309" alt="Screenshot 2023-12-16 153734" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/2db0a00d-0d72-4330-b71c-a629f4c7cada">
+[## Support Removal Process
+![Screenshot 2023-12-19 155415](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/44d2f3d3-a570-400f-8498-fb304bcc3598)
+![Screenshot 2023-12-19 160650](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/83f2dcc9-facc-4082-a38e-3c9c07fae562)
+
+## UV Curing of 3D printed part
+![Screenshot 2023-12-19 161722](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/feede389-4df3-4496-af0b-f7f9c94ceec5)
+![Screenshot 2023-12-19 215236](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/33427292-baf4-437a-8092-eee15556a48c)
+
+## Heat Treatment of 3D printed part
+![Screenshot 2023-12-19 215316](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/47fe35c5-4acb-4761-ac52-a9589f7143ec)
+![Screenshot 2023-12-19 215342](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/05a961b4-66a5-4780-b4e0-63b2500f5112)
+
+
+## Output:
+![Screenshot 2023-12-19 215618](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/5f378772-8592-4d18-9bc5-d3199070e940)](https://github.com/akashmano/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS.git)
+
 
 ### Name: Subishesh P
 ### Register Number: 23003621
